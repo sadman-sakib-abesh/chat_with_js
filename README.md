@@ -10,6 +10,7 @@ npm i express
 npm i cors
 npm i socket.io@^2.3.1
 cd client
+npm i react
 npm i react-scroll-to-bottom
 npm i socket.io-client@^2.3.1
 ```
