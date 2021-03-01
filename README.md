@@ -4,6 +4,7 @@ this app is developed with react js+node js+ express
 react js, node js, express, socket.io, socket.io-client, cors, reactScrollToBottom.
 
 ```bash
+git clone https://github.com/sadman-sakib-abesh/chat_with_js.git
 cd chat_with_js
 npm i express
 npm i cors
